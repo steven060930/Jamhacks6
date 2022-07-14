@@ -1,6 +1,9 @@
+# IMPORTANT
+This is not the newest version of the webiste, for the updated one, visit https://github.com/Little-T-Mouse/Jamhack2022
+
 # Covid-19 Statistics
 
-Website project for Jamhacks6 which collects the data of statistics of covid19 explosure online and integrates into a sinlge website.
+Web application project for Jamhacks6 which collects the data of statistics of covid19 explosure online and integrates into a sinlge website.
 As well as submission to Jamhacks' Jamhacks 6, 2022 by Haoen Shan and Yunzhe Qiao.
 ## Inspiration
 Nowadays, Covid-19 is happening all over the world. We were to make a convenient website access to the status of its exposure, with some knowledge about Covid-19.
