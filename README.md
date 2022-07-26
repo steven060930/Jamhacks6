@@ -1,5 +1,5 @@
 # IMPORTANT
-This is not the newest version of the webiste, for the updated one, visit https://github.com/Little-T-Mouse/Jamhack2022
+This is an old version of the webiste without modification, for the updated one, please visit https://github.com/Little-T-Mouse/Jamhack2022
 
 # Covid-19 Statistics
 
@@ -13,6 +13,7 @@ It collects the data, and clearly shows and interprets the infographics of cases
 HTML as base, and use .json and .csv data API to access the real time data, and fetch them, graphing them out using JavaScript and [Flourish](https://flourish.studio/). We use JavaScript and CSS to improve the appearance of web pages.
 ## Challenges we ran into and how we solved it
 The first challenge we ran into is how to make it real-time and keep on updating, and we use JavaScript to solved this challenge. The second challenge we met was how to make this website more interesting. We added some dynamic graphs, interactive user interfaces and some Covid-19 knowledge to make this website no longer monotonous.
+Also, during the hackathon, we worked seperately and we felt hard to communicate each other.
 ## Accomplishments that we're proud of
 - Various graphs(e.g. pie chart, bar chart, line chart etc.)  that clearly present the data.
 - The interactive user interfaces that can give user knowledge about Covid-19.
@@ -23,4 +24,4 @@ The first challenge we ran into is how to make it real-time and keep on updating
 - How to make the data be dynamically update.
 - Besides the website building, we also learned some Covid-19 knowledge.
 ## What's next for Covid-19 Statistics
-Continue to track the status of it, until the pandemic has ended. The website will help people to understand the situations we are facing now, and what we should do next to prevent the Covid-19. We will also add more features that can help people or make people more convenient, and some data analysis.
+We will modify the website, and add more features to it, and continue to track the status of it, until the pandemic has ended. The website will help people to understand the situations we are facing now, and what we should do next to prevent the Covid-19. We will also add more features that can help people or make people more convenient, and some data analysis.
